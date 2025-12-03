@@ -1,4 +1,4 @@
-# Team Rameez Rameez and Rameez
+# Team Rameez - Financial Report Analysis Overview
 
 ## Team members
 Rameez Rauf
@@ -22,11 +22,11 @@ The data reveals a split trend between sectors. Tech companies consistently ment
 
 ## Plot / Visualization
 
-![AI related paragraphs per year by sector](../plots/ai_trends_by_sector.png)
+![AI related paragraphs per year by sector](../Rameez_Financial_report_analysis/plots/ai_trends_by_sector.png)
 
 Another cool plot:
 
-![Top 15 tickers by AI related paragraphs](../plots/ai_paragraphs_top_tickers.png)
+![Top 15 tickers by AI related paragraphs](../Rameez_Financial_report_analysis/plots/ai_paragraphs_top_tickers.png)
 
 ## GitHub Repository
 https://github.com/rameezrauf/ds3022-data-project-3
